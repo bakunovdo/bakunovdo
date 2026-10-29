@@ -57,34 +57,15 @@
 
 ## 🔨 What I actually build
 
-| Area | Details |
-|---|---|
-| **Admin panels** | React + MUI + TanStack Query/Table, Effector/Zustand, OIDC auth, i18n, SSE — large fintech & sport-catalog back-offices |
-| **Design systems** | Shared `ui-components` library: Storybook, Vitest + Testing Library, husky + commitlint, semantic releases |
-| **Public web** | Next.js sites with Strapi CMS, Tailwind, Framer Motion, SEO & i18n (e.g. a theatre website) |
-| **Web components** | Lit + @lit-labs/router micro-frontends tested with Playwright |
-| **Bots & automation** | Telegram trading-signal bots (Telegraf, Bybit API, MongoDB), job-application automation |
-| **Go** | CLI tools, URL shortener, TLS scanner contributions |
-| **Python** | FastAPI services with SQLAlchemy/asyncpg, pandas & scikit-learn analytics |
-
-## 📈 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=bakunovdo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=bakunovdo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=bakunovdo&theme=transparent&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakunovdo&theme=transparent" alt="Profile details" width="800" />
-</p>
-
-### Contribution graph
-
-![Contribution chart](https://ghchart.rshah.org/0969da/bakunovdo)
+| Area                  | Details                                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Admin panels**      | React + MUI + TanStack Query/Table, Effector/Zustand, OIDC auth, i18n, SSE — large fintech & sport-catalog back-offices |
+| **Design systems**    | Shared `ui-components` library: Storybook, Vitest + Testing Library, husky + commitlint, semantic releases              |
+| **Public web**        | Next.js sites with Strapi CMS, Tailwind, Framer Motion, SEO & i18n (e.g. a theatre website)                             |
+| **Web components**    | Lit + @lit-labs/router micro-frontends tested with Playwright                                                           |
+| **Bots & automation** | Telegram trading-signal bots (Telegraf, Bybit API, MongoDB), job-application automation                                 |
+| **Go**                | CLI tools, URL shortener, TLS scanner contributions                                                                     |
+| **Python**            | FastAPI services with SQLAlchemy/asyncpg, pandas & scikit-learn analytics                                               |
 
 ## 📫 Contact
 
