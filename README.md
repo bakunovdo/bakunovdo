@@ -69,8 +69,22 @@
 
 ## 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bakunovdo&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakunovdo&layout=compact&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=bakunovdo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=bakunovdo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=bakunovdo&theme=transparent&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakunovdo&theme=transparent" alt="Profile details" width="800" />
+</p>
+
+### Contribution graph
+
+![Contribution chart](https://ghchart.rshah.org/0969da/bakunovdo)
 
 ## 📫 Contact
 
